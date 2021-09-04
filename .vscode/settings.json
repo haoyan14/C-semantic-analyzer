@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "xtree": "cpp",
+        "xlocale": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "xutility": "cpp",
+        "stack": "cpp",
+        "queue": "cpp",
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "xloctime": "cpp",
+        "system_error": "cpp"
+    }
+}
